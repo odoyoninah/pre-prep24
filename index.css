@@ -1,0 +1,30 @@
+h1{
+    display: inline;
+}
+.letters{
+    color: #F6B400;
+}
+nav .col1 ul li{ 
+    list-style: none;
+    display: inline-flex;
+    font-size: 17px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: -50px;
+    position: relative;
+    z-index: 3;
+}
+button{ 
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    color: white;
+    background-color:#F6B400;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+}
+.sweet-burger img{
+    display: inline-flex;
+    margin-left: 500px;
+}

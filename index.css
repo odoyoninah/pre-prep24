@@ -67,9 +67,11 @@ button{
     text-align: center;
     
 }
-.title{
+.title
+.sweet-burger
+img{
     display :flexbox;
-    float: inline-end;
+    float: right;
 }
 .col1{
     margin-left: 250px;
@@ -102,7 +104,8 @@ button{
 width: 500px;
 }
 .first three{
-    display: flex;
+    display:inline-flex;
     width: 300px;
     flex-wrap: wrap;
+    flex-direction: row;
  }

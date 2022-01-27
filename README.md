@@ -42,7 +42,7 @@ Week 1 independent project.
  
  MIT License
  
- Copyright (c) [2019] [Albert Byrone]
+ Copyright (c) [2019] [Ninah Odoyo]
  
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal

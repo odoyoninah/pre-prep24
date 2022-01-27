@@ -81,3 +81,10 @@ button{
 
 .button{margin-bottom: 100px;}
 
+.burger-img{border: 1px solid burlywood;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+
+}
+.home{text-underline-offset: color #F6B400;}

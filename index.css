@@ -25,14 +25,59 @@ button{
     font-weight: bold;
 }
 .sweet-burger img{
-    display: inline-flex;
+    /* display: inline-flex;
     margin-left: 500px;
-    padding-top: 0px;
+    padding-top: 100px;
+    float:top right;
+    height: 700px;width: 550px ;
+    margin-top: 250px; */
+    max-width: 300px;
+    height: 546px;  
 }
-.delivery h2 p{ 
-    background-color: white;
-    border-radius: 0px 0px 50px 0px;
-    width: 250px;
-    height: 180px;
 
+#burger1{
+    max-width: 100%;
+    max-height: 100%;
+    float: left;
 }
+.services{
+    display: flex;
+}
+.burger{border: 1px solid burlywood;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    
+}
+.delivery{
+    border: 1px solid burlywood;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+.meals{
+    border: 1px solid burlywood;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+.menu{
+    text-align: center;
+    
+}
+.title{
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+.col1{
+    margin-left: 250px;
+    margin-bottom: 101px;
+}
+
+
+.rain{margin-bottom: 100px;}
+
+.tasty{margin-bottom: 100px;}
+
+.button{margin-bottom: 100px;}
+

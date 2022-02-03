@@ -25,14 +25,12 @@ button{
     font-weight: bold;
 }
 .sweet-burger img{
-    /* display: inline-flex;
-    margin-left: 500px;
-    padding-top: 100px;
-    float:top right;
-    height: 700px;width: 550px ;
-    margin-top: 250px; */
+   
     max-width: 300px;
-    height: 546px;  
+    height: 356px;
+    margin-bottom: 60px;
+    margin-right: 200px;
+
 }
 
 #burger1{
@@ -42,26 +40,32 @@ button{
     float: top;
     position: relative;
 }
+.mama{
+    background-image:linear-gradient(117deg,white 50%,#f4b956 50%)}
 .services{
     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 300px;
+
 }
 .burger{border: 1px solid burlywood;
     border-radius: 10px;
     margin: 20px;
-    padding: 20px;
+    padding: 100px;
     
 }
 .delivery{
     border: 1px solid burlywood;
     border-radius: 10px;
     margin: 20px;
-    padding: 20px;
+    padding: 100px;
 }
 .meals{
     border: 1px solid burlywood;
     border-radius: 10px;
     margin: 20px;
-    padding: 20px;
+    padding: 100px;
 }
 .menu{
     text-align: center;
@@ -97,13 +101,30 @@ img{
 
 .button{margin-bottom: 100px;}
 
-.burger-img{border: 1px solid burlywood;
-    border-radius: 10px;
-    margin: 20px;
-    padding: 10px;
-width: 300px;
-display: flex;
-flex-wrap: wrap;
+
+
+
+
+.row-img .firstthree{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid white;
+    width: 300px;
+    padding: 20px;
+    margin-bottom: 130px;
+    background :white;
 }
+
+.row-img .lastthree{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid white;
+    width: 300px;
+    padding: 20px;
+    margin-bottom: 130px;
+    background :white;
+}
+
+
 
  
